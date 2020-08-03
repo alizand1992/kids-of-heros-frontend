@@ -14,6 +14,7 @@ export const SignIn = () => {
   const style = {
     backgroundColor: '#3C787E',
     fontSize: '1.5em',
+    borderRadius: '10px',
   };
 
   return (
@@ -25,6 +26,7 @@ export const SignUp = () => {
   const style = {
     backgroundColor: '#D56F3E',
     fontSize: '1.5em',
+    borderRadius: '10px',
   };
 
   return (

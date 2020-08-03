@@ -1,0 +1,28 @@
+.form-container {
+    background: #D56F3E;
+    text-align: center;
+    display: block;
+    position: relative;
+    top: 20vh;
+    margin: auto;
+    z-index: 10;
+    height: 600px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 120%;
+}
+
+.header {
+    font-family: Ranchers, cursive;
+    font-size: 3em;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);;
+}
+
+.user-fields {
+    border: black;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.close-button-container {
+    padding: 10px 10px 0 0;
+}
